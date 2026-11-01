@@ -74,10 +74,9 @@ You won! The word was python.
 ## Project Structure
 
 ```
-CodeAlpha_HangmanGame/
+hangman_game/
 ├── hangman.py
 ├── README.md
-└── .gitignore
 ```
 
 ## Limitations
