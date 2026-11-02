@@ -1,8 +1,8 @@
-# CodeAlpha Hangman Game
+# Hangman Game
 
 A simple text-based Hangman game written in Python. The computer picks a secret word and the player guesses it one letter at a time.
 
-Built as **Task 1** of the **CodeAlpha Python Programming Internship** (November 2026).
+Built for revision of python.
 
 ## Features
 
@@ -89,6 +89,3 @@ hangman_game/
 **Bishwash Poudel**
 GitHub: [bishwash-codes](https://github.com/bishwash-codes)
 
-## Acknowledgement
-
-Completed as part of the Python Programming Internship at [CodeAlpha](https://www.codealpha.tech).
