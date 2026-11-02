@@ -46,7 +46,7 @@ Built for revision of python.
 2. Clone the repository:
 
    ```
-   git clone https://github.com/bishwash-codes/CodeAlpha_hangmangame.git
+   git clone https://github.com/bishwash-codes/Hangman_game.git
    cd hangman_game
    ```
 
